@@ -10,8 +10,6 @@ As part of my research, I wanted to figure out a longer term solution to get inf
 
 I was really curious to see if there was a calculation I could implement that would predict the future price of a given stock. As part of this project, I learned to make a request for a webpage and search the page for specific data. I also learned to create files from the data and make graphs.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
 [Software Demo Video](https://blackadder-git.github.io/byui/cse310/stockmarket)
 
 # Data Analysis Results
