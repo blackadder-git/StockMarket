@@ -6,16 +6,15 @@ The dataset I found includes historical data from MarketWatch. It spans one year
 
 [GOOG.csv](https://www.marketwatch.com/investing/stock/goog/download-data?mod=mw_quote_tab)
 
-As part of my research, I wanted to figure out a longer term solution to get information. I created several test scripts that could scrape the web. I was able to find specific information and save the results to a file as csv, html, json.
-
-I was really curious to see if there was a calculation I could implement that would predict the future price of a given stock. As part of this project, I learned to make a request for a webpage and search the page for specific data. I also learned to create files from the data and make graphs.
+I was curious to see if there was a calculation I could implement that would predict the future price of a given stock. As part of my research, I learned to make a request for a webpage and search the page for specific data. I also learned to create files from the data, setup a virtual python enviroment and also make graphs.
 
 [Software Demo Video](https://blackadder-git.github.io/byui/cse310/stockmarket)
 
 # Data Analysis Results
 
-* The first question I asked to was to find the mean of the Open, High, Low and Close
-* The second question I asked was how many days did stock trade with a volume greater than 30,000,000
+* The first question I asked was how to get the mean of the Open, High, Low and Close. Answer: $103.91, $105.48, $102.7, $104.12
+* The second question I asked was how many days did stock trade with a volume greater than 30,000,000. Answer: 77
+* The third question I asked was how to sum the data in open. Answer: $26184.92
 
 # Development Environment
 * Visual Studio Code 1.78.2
@@ -33,12 +32,12 @@ I was really curious to see if there was a calculation I could implement that wo
 * Requests 2.31.0
 
 # Useful Websites
+* [Python Doc](https://docs.python.org/3/)
 * [Creation of virtual enviroments](https://docs.python.org/3/library/venv.html)
 * [Using Python environments](https://code.visualstudio.com/docs/python/environments)
 * [Guide to Python Virtual Environment](https://www.youtube.com/watch?v=KxvKCSwlUv8)
-* [Pandas Datareader](https://thecleverprogrammer.com/2021/03/22/pandas-datareader-using-python-tutorial/)
+* [Data Science in VS Code tutorial](https://code.visualstudio.com/docs/datascience/data-science-tutorial)
 
 # Future Work
-
 * implement machine learning to estimate the future direction of a given stock
 * look for a way to determine whether a stock is overvalued or undervalued
