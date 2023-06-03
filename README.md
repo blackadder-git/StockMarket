@@ -12,9 +12,12 @@ I was curious to see if there was a calculation I could implement that would pre
 
 # Data Analysis Results
 
-* The first question I asked was how to get the mean of the Open, High, Low and Close. Answer: $103.91, $105.48, $102.7, $104.12
-* The second question I asked was how many days did stock trade with a volume greater than 30,000,000. Answer: 77
-* The third question I asked was how to sum the data in open. Answer: $26184.92
+* The first question I asked was how to get the mean of the Open, High, Low and Close. 
+  * Answer: $103.91, $105.48, $102.7, $104.12
+* The second question I asked was how many days did stock trade with a volume greater than 30,000,000. 
+  * Answer: 77
+* The third question I asked was how to sum the data in open. 
+  * Answer: $26184.92
 
 # Development Environment
 * Visual Studio Code 1.78.2
